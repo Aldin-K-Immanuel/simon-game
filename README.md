@@ -14,5 +14,3 @@ Test your memory skills by repeating the sequence of colors that grows longer ea
 
 ## 📸 Preview
 ![Simon Game Screenshot](simon-game.JPG)
-
-## 📁 Project Structure
