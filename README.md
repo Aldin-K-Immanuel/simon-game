@@ -13,6 +13,6 @@ Test your memory skills by repeating the sequence of colors that grows longer ea
 - Keyboard and click controls
 
 ## 📸 Preview
-![Simon Game Screenshot](./assets/images/preview.png) <!-- Add screenshot if available -->
+![Simon Game Screenshot](simon-game.JPG)
 
 ## 📁 Project Structure
