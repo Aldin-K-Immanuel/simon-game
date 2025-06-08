@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Simon Game</title>
+  <link rel="stylesheet" href="style.css" />
+  <link href="https://fonts.googleapis.com/css2?family=Orbitron&display=swap" rel="stylesheet" />
+</head>
+<body>
+  <div class="game-wrapper">
+    <header>
+      <h1 id="level-title">Press Any Key to Start</h1>
+      <p class="scoreboard">High Score: <span id="high-score">0</span></p>
+    </header>
+
+    <main class="grid">
+      <button class="btn green" id="green" aria-label="Green button"></button>
+      <button class="btn red" id="red" aria-label="Red button"></button>
+      <button class="btn yellow" id="yellow" aria-label="Yellow button"></button>
+      <button class="btn blue" id="blue" aria-label="Blue button"></button>
+    </main>
+
+    <footer>
+      <p>@LearningJS</p>
+    </footer>
+  </div>
+
+  <script src="app.js"></script>
+</body>
+</html>
